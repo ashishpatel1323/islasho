@@ -7,23 +7,79 @@ tags:
   - blog 
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-``` js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
+If i have to use a Software application ( Desktop /Web) daily in a laptop . i have to know the keyboard shortcuts. If the application doesn't have shortcuts, i am not likely to use it in the long run. Also if the application has shortcuts that i am not using, i most probabaly not using the tool to its maximum potential. I have listed the tools and the shortcuts daily.
 
-	counter++;
+##  Google Chrome ##
 
-}
+ - Cmd+Command+F : Remove tab bar in complete full screen mode. This is very useful for deep work reading /writing sessions.
+  - Ctrl+W : Close Active tab
+  - Ctrl+N : New tab
 
-// Test with a line break above this line.
-console.log('Test');
-```
+## Google Calendar
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+ - Ctrl+W : Close tab 
+ - Ctrl+N : New tab 
+ - Cmd+Shift+F : Remove tab bar in complete full screen mode.
 
-## Section Header
+## Google Docs
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+ - Ctrl+W : Close tab 
+ - Ctrl+N : New tab 
+ - Cmd+Shift+F : Remove tab bar in complete full screen mode.
+  
+
+## Google Sheets
+
+ - Ctrl+W : Close tab 
+ - Ctrl+N : New tab 
+ - Cmd+Shift+F : Remove tab bar in complete full screen mode.
+  
+  
+
+## Figma
+ - Ctrl+W : Close tab 
+ - Ctrl+N : New tab 
+ - Cmd+Shift+F : Remove tab bar in complete full screen mode.
+  
+## Xmind 
+
+ - Ctrl+W : Close tab 
+ - Ctrl+N : New tab 
+ - Cmd+Shift+F : Remove tab bar in complete full screen mode.
+  
+  
+
+## JIRA
+ - Ctrl+W : Close tab 
+ - Ctrl+N : New tab 
+ - Cmd+Shift+F : Remove tab bar in complete full screen mode.
+  
+
+  
+
+## NOTION
+
+ - Ctrl+W : Close tab 
+ - Ctrl+N : New tab 
+ - Cmd+Shift+F : Remove tab bar in complete full screen mode.
+  
+
+## AIRMAIL
+ - Ctrl+W : Close tab 
+ - Ctrl+N : New tab 
+ - Cmd+Shift+F : Remove tab bar in complete full screen mode.
+  
+
+## MacOS Finder
+
+ - Ctrl+W : Close tab 
+ - Ctrl+N : New tab 
+ - Cmd+Shift+F : Remove tab bar in complete full screen mode.
+  
+
+## MacOS Global Shortcuts
+
+- Shift+CTRL+CMD+4 : Take a selection screenshot of screen and keep it clipboard
+- Ctrl+N : New tab
+- Cmd+Shift+F : Remove tab bar in complete full screen mode.
