@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-About Product Management, Productivty , Software Engineering and Blogs
+I am a person that writes stuff.
